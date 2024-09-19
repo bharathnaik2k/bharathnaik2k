@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathnaik2k&label=Profile%20views&color=0e75b6&style=flat" alt="bharathnaik2k" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharathnaik2k" alt="bharathnaik2k" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/bharathnaik2k" target="blank"><img src="https://img.shields.io/twitter/follow/bharathnaik2k?logo=twitter&style=for-the-badge" alt="bharathnaik2k" /></a> </p>
 
 - 📫 How to reach me **bharathnaik868@gmail.com**
