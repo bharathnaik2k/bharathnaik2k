@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathnaik2k&label=Profile%20views&color=0e75b6&style=flat" alt="bharathnaik2k" /> </p>
 
 - 📫 How to reach me **bharathnaik868@gmail.com**
+- 🦚 Stack Overflow **https://stackoverflow.com/users/23656524/bharath-naik**
 
 
 <h3 align="left">GitHub Stats:</h3>
