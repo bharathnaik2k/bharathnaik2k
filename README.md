@@ -6,12 +6,9 @@
 - 📫 How to reach me **bharathnaik868@gmail.com**
 
 
-
-
-
 <h3 align="left">GitHub Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharathnaik2k&show_icons=true&locale=en" alt="bharathnaik2k" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharathnaik2k&show_icons=true&locale=en" alt="bharathnaik2k" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharathnaik2k&" alt="bharathnaik2k" /></p>
 
 
