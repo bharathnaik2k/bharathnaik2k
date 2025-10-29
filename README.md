@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathnaik2k&label=Profile%20views&color=0e75b6&style=flat" alt="bharathnaik2k" /> </p>
 
 - 📫 How to reach me **bharathnaik868@gmail.com**
+- LinkedIn [profile](https://www.linkedin.com/in/bharathnaik2k/)
 - 🦚 Stack Overflow [Stackoverflow](https://stackoverflow.com/users/23656524/bharath-naik)
 - 📑 Check Out My Resume Here [Resume](https://www.canva.com/design/DAGXSxtvz8g/k908tmGDledvcbt-9C10sw/edit?utm_content=DAGXSxtvz8g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - 💻 All of my projects are available on [Github](https://github.com/bharathnaik2k?tab=repositories)
