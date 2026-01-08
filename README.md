@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bharath Naik</h1>
-<h3 align="center">A passionate flutter developer from Karnataka India</h3>
+<h3 align="center">A passionate flutter developer (Android and iOS Developer) from Karnataka India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathnaik2k&label=Profile%20views&color=0e75b6&style=flat" alt="bharathnaik2k" /> </p>
 
